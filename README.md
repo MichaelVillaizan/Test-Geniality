@@ -8,7 +8,7 @@
 
 ###  [Prueba el Programa!](https://michaelvillaizan.github.io/Test-Geniality/)
 
-## Instalacion
+## Instalación
 
 ```sh
 npm install
