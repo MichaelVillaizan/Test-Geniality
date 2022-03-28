@@ -2,6 +2,7 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
+<img alt="project preview" src="./https://drive.google.com/file/d/1TXdmy-vdsn4oG7jcvys-lD9qHN564kEU/view?usp=sharing">
 
 > This project is a technical test from my postulation to Gen.iality, I build it since a API of trivia quietios
 
