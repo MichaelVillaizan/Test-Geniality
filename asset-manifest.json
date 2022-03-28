@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Trivia-game/static/css/main.76352536.css",
-    "main.js": "/Trivia-game/static/js/main.d907683e.js",
-    "static/js/787.92b7ebf6.chunk.js": "/Trivia-game/static/js/787.92b7ebf6.chunk.js",
-    "index.html": "/Trivia-game/index.html",
-    "main.76352536.css.map": "/Trivia-game/static/css/main.76352536.css.map",
-    "main.d907683e.js.map": "/Trivia-game/static/js/main.d907683e.js.map",
-    "787.92b7ebf6.chunk.js.map": "/Trivia-game/static/js/787.92b7ebf6.chunk.js.map"
+    "main.css": "/Test-Geniality/static/css/main.76352536.css",
+    "main.js": "/Test-Geniality/static/js/main.021f7271.js",
+    "static/js/787.92b7ebf6.chunk.js": "/Test-Geniality/static/js/787.92b7ebf6.chunk.js",
+    "index.html": "/Test-Geniality/index.html",
+    "main.76352536.css.map": "/Test-Geniality/static/css/main.76352536.css.map",
+    "main.021f7271.js.map": "/Test-Geniality/static/js/main.021f7271.js.map",
+    "787.92b7ebf6.chunk.js.map": "/Test-Geniality/static/js/787.92b7ebf6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76352536.css",
-    "static/js/main.d907683e.js"
+    "static/js/main.021f7271.js"
   ]
 }
