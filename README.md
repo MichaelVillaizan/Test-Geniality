@@ -27,7 +27,7 @@ npm start
 ## Componentes
 - ### .button btn-{color}
     los 4 botones principales animados de una manera mas interactiva
-- 
+
 - ### contentBox
    Caja que es actualizada con respecto al contenido de inicio preguntas y respuestas
 - ### bottomBox
